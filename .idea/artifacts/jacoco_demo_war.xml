@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jacoco_demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jacoco_demo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jacoco_demo:war exploded" />
+    </root>
+  </artifact>
+</component>
